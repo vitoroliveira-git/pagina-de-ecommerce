@@ -11,8 +11,7 @@ Este projeto consiste em um site de e-commerce desenvolvido para promover e vend
 ## Tecnologias Utilizadas
 - **HTML5**: Estruturação do conteúdo do site.
 - **CSS3**: Estilização e design responsivo.
-- **Ícones e Fontes**: Uso de bibliotecas como Font Awesome e Google Fonts para melhorar a estética.
-- 
+
 ## Design e Estilo
 - **Cores Principais**: Utilização de cores modernas e vibrantes, como roxo eletrônico e preto, para destacar o apelo tecnológico do produto.
 - **Tipografia**: Fontes limpas e legíveis, como "Roboto" ou "Open Sans", para melhorar a experiência de leitura.
